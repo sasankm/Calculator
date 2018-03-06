@@ -4,7 +4,7 @@
 
 - clone or download the zip 
 - open calculator in your IDE
-- open cmd or terimanl in that particular IDE
+- open cmd or terminal in that particular IDE
 - In 1st termianl or cmd type:
 -        1.cd calculator-client
          2.npm install
